@@ -134,7 +134,7 @@ The Excel workbook (`SuperStore_Analysis.xlsx`) contains five sheets:
 ```dax
 -- Correct profit margin at any filter context
 -- Avoids the misleading result of averaging row-level Profit Margin % values
-Profit Margin % = DIVIDE(SUM('RawData_PowerBi'[Profit]), SUM('RawData'[Sales]))
+Profit Margin % = DIVIDE(SUM('RawData_PowerBi'[Profit]), SUM('RawData_PowerBi'[Sales]))
 
 -- Profit Status column for conditional formatting on State Profitability page
 Profit Status =
