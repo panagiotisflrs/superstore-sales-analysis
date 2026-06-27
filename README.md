@@ -225,5 +225,5 @@ superstore-sales-analysis/
 
 ## Related Projects
 
-- [European Household Energy Consumption — MySQL + Power BI](https://github.com/panagiotisflrs/eurostat-household-energy.git)
-- [Video Game Sales Analysis — MySQL](https://github.com/panagiotisflrs/vgsales)
+- [European Household Energy Consumption Power BI](https://github.com/panagiotisflrs/eurostat-household-energy-PowerBi.git)
+- [VideoGames Sales PowerBi](https://github.com/panagiotisflrs/video-game-sales-PowerBi.git)
