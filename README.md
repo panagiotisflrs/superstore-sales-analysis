@@ -168,7 +168,7 @@ SWITCH(
 - **Power BI source:** `dataset/RawData_PowerBi.csv` (cleaned Raw Data sheet exported from Excel)
 - **Rows:** 9,993 (after removing 2 confirmed duplicates)
 - **Columns:** 21 original + 7 helper columns added during cleaning
-- **Period:** 2014 – 2018
+- **Period:** 2014 – 2017 
 - **Market:** United States
 
 ---
