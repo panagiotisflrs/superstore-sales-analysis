@@ -1,4 +1,4 @@
-# Sample Superstore Sales Analysis — Excel & Power BI
+# Superstore Sales Analysis — Excel & Power BI
 
 ## Overview
 
